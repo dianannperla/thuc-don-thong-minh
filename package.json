@@ -1,0 +1,36 @@
+{
+  "name": "thuc-don-thong-minh",
+  "version": "1.0.0",
+  "description": "Ứng dụng web cho phép người dùng tạo và quản lý thực đơn nấu ăn.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
